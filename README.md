@@ -3,7 +3,7 @@
 ## 📘 Table of Contents
 1. [Project Overview](#project-overview)  
 2. [Repository Structure](#repository-structure)  
-3. [Installation and Requirements](#installation-and-requirements)  
+3. [Installation and Requirements](#️-installation-and-requirements)  
 4. [Instructions](#instructions)  
    - [1️⃣ ETL Pipeline](#1️⃣-etl-pipeline)  
    - [2️⃣ Machine Learning Pipeline](#2️⃣-machine-learning-pipeline)  
@@ -13,7 +13,7 @@
 7. [Files and Code Description](#files-and-code-description)  
 8. [Model Evaluation](#model-evaluation)  
 9. [Improvements and Future Work](#improvements-and-future-work)  
-10. [Author and Acknowledgements](#author-and-acknowledgements)
+10. [Acknowledgements](#-acknowledgements)
 
 ---
 
@@ -228,7 +228,7 @@ The web app includes three main visualizations (Plotly):
 **Course:** Udacity Data Scientist Nanodegree 
 
 **Data source:**
-- [Figure Eight](https://www.figure-eight.com) for providing the dataset.  
+- [Appen](https://www.figure-eight.com) for providing the dataset.  
 
 **Project source:**
 - Udacity for project scaffolding and review criteria.
